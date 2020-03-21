@@ -2,4 +2,4 @@
 ## A sample for recycler view using liveData 
 
 ## Demo
-![Demo](/sample.gif "Demo")  { width: 100px; height: 200px; }
+<img src="/sample.gif" title="Live Demo" width="100" height="200" />
