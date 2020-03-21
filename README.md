@@ -2,4 +2,4 @@
 ## A sample for recycler view using liveData 
 
 ## D
-![Demo](/smaple.gif "Demo")
+![Demo](/sample.gif "Demo")
