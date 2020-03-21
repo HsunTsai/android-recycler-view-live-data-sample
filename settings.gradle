@@ -1,0 +1,2 @@
+rootProject.name='RecyclerView LiveData Sample'
+include ':app'

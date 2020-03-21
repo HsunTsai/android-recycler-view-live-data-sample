@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="user_horizontal_margin">16dp</dimen>
+    <dimen name="user_padding">8dp</dimen>
+    <dimen name="user_minHeight">64dp</dimen>
+</resources>
