@@ -1,5 +1,5 @@
 # android-recycler-view-live-data-sample
 ## A sample for recycler view using liveData 
 
-## D
-![Demo](/sample.gif "Demo")
+## Demo
+![Demo](/sample.gif "Demo" =100x200)
